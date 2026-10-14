@@ -4,11 +4,10 @@ using System.Text;
 
 namespace MoziJegyeladasFajlbol
 {
-    public class Cim;
+    public class Film
     {
         public string Cim;
         public int Eladott;
         public int Ar;
     }
-    
 }
